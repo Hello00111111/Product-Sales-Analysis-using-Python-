@@ -46,5 +46,5 @@ Australia is the top shipment destination. 18.4% of the products have been shipp
 January, June, and July generated the most transaction amount throughout the period. 
 
 # Technologies Used
-Pandas 
+Pandas <br>
 Matplotlib 
