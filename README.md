@@ -37,12 +37,12 @@ This section shows the total number of boxes shipped by Country of Order, which 
 The time series graph above displays the trend in transaction amount over the selling period. It particularly points out the total transaction amount for each month over the period. 
 
 # Key Insights 
-The average transaction amount is $5652.318.<br>
-The upper outlier for Transaction Amount is $16482.375. It's worth it for the business stakeholders to further investigate these high-value transactions to unlock any hidden revenue opportunities.<br>
-Ches Bonnell is the top-performing sales representative, and the stakeholders may consider promoting this employee.<br>
-Smooth Sliky Salty, 50% Dark Bites, and White Chocolate are the top 3 transaction amount-generating products, which implies their high revenue-generation.<br>
-There are 11 products, which include 50% Dark Bites, 85% Dark Bites, etc, that have a moderately negative correlation between their Boxes Shipped and Amount, which implies that higher Boxes Shipped of these products is moderately associated with lower Transaction Amount. This is possibly due to the low unit price and the heavy discounts of these products.<br>
-Australia is the top shipment destination. 18.4% of the products have been shipped there. 
+The average transaction amount is $5652.318.<br><br>
+The upper outlier for Transaction Amount is $16482.375. It's worth it for the business stakeholders to further investigate these high-value transactions to unlock any hidden revenue opportunities.<br><br>
+Ches Bonnell is the top-performing sales representative, and the stakeholders may consider promoting this employee.<br><br>
+Smooth Sliky Salty, 50% Dark Bites, and White Chocolate are the top 3 transaction amount-generating products, which implies their high revenue-generation.<br><br>
+There are 11 products, which include 50% Dark Bites, 85% Dark Bites, etc, that have a moderately negative correlation between their Boxes Shipped and Amount, which implies that higher Boxes Shipped of these products is moderately associated with lower Transaction Amount. This is possibly due to the low unit price and the heavy discounts of these products.<br><br>
+Australia is the top shipment destination. 18.4% of the products have been shipped there. <br><br>
 January, June, and July generated the most transaction amount throughout the period. 
 
 # Technologies Used
