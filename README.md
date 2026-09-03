@@ -41,7 +41,7 @@ The average transaction amount is $5652.318.<br><br>
 The upper outlier for Transaction Amount is $16482.375. It's worth it for the business stakeholders to further investigate these high-value transactions to unlock any hidden revenue opportunities.<br><br>
 Ches Bonnell is the top-performing sales representative, and the stakeholders may consider promoting this employee.<br><br>
 Smooth Sliky Salty, 50% Dark Bites, and White Chocolate are the top 3 transaction amount-generating products, which implies their high revenue-generation.<br><br>
-There are 11 products, which include 50% Dark Bites, 85% Dark Bites, etc, that have a moderately negative correlation between their boxes shipped and amount, which implies that higher boxes shipped of these products is moderately associated with lower transaction Amount. This is possibly due to the low unit price and the heavy discounts of these products.<br><br>
+There are 11 products, which include 50% dark bites, 85% dark bites, etc, that have a moderately negative correlation between their boxes shipped and amount, which implies that higher boxes shipped of these products is moderately associated with lower transaction Amount. This is possibly due to the low unit price and the heavy discounts of these products.<br><br>
 Australia is the top shipment destination. 18.4% of the products have been shipped there. <br><br>
 January, June, and July generated the most transaction amount throughout the period. 
 
