@@ -1,5 +1,5 @@
 # Product-Sales-Analysis-using-Python-
-This project focuses on cleaning, analyzing, and visualizing a set of chocolate sales data. Business insights can be concluded based on the program output. 
+This project focuses on cleaning, analyzing, and visualizing a set of chocolate sales data. Key business insights are concluded based on the program output. 
 
 # Program Objectives 
 Clean the data. Ensure that the data is in the right format.<br>
