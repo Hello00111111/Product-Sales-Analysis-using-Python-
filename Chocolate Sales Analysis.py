@@ -1,6 +1,10 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 data = pd.read_csv('Chocolate Sales.csv')
+
+null_num = data.isna().sum()
+print(null_num)
+
 data['Amount'] = (data['Amount'].str.replace(r'[\$,"]','',regex=True)
                   .astype(int))
 data['Date'] = pd.to_datetime(data['Date'], format = '%d-%b-%y')
