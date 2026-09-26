@@ -10,6 +10,11 @@ Output the correlation between boxes shipped and transaction amount for each pro
 Show the total number of boxes shipped by country. <br>
 Produce the data visualization in various forms. <br>
 
+# Number of Null Values 
+<img width="242" height="156" alt="Screenshot 2026-09-25 at 22 36 36" src="https://github.com/user-attachments/assets/c850e663-1b9c-4599-b206-ff00ff8aaba9" /><br>
+To ensure that the dataset does not contain any null values, the program first outputs the total number of null values under each column. In this case, there's no null value in the dataset, which means there's no need to fill in any empty cells. 
+
+
 # Numerical Data Summary
 <img width="696" height="496" alt="Screenshot 2026-07-22 at 21 57 31" src="https://github.com/user-attachments/assets/104bf254-1354-4a18-a7e0-7f3838dbada7" />
 <img width="680" height="497" alt="Screenshot 2026-07-23 at 13 10 43" src="https://github.com/user-attachments/assets/11a0463e-f161-4afb-8725-967c953b1e20" />
